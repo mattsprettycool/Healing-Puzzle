@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MySA
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 02a9ac5977560ca44aba60456a63e99a, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 6158aaf0ce7fe007d1b1236a2abca0fd
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -512018002497874353, guid: dc0c2d94325c6fb49a75b095e8dca6cf, type: 3}
+  - {fileID: 21300000, guid: c62de167fd85fe24691feb45e2cf5849, type: 3}
+  - {fileID: -8242280653173795229, guid: 3e822e87e199bae4e975639eda8be62a, type: 3}
+  - {fileID: -2993900771664221379, guid: 3e822e87e199bae4e975639eda8be62a, type: 3}
+  - {fileID: 4330381941295936390, guid: 44956d99e6eee264c8c115571043ff7a, type: 3}
+  - {fileID: 6321918365078693986, guid: 44956d99e6eee264c8c115571043ff7a, type: 3}
+  - {fileID: -8300330372204178419, guid: a0d3da9db97199541ae4bc4b644253d0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - test iso 2_0
+  - test iso
+  - test tiles_1
+  - test tiles_0
+  - test tiles 2 2
+  - test tiles 2 1
+  - test iso 3_0
+  m_Tag: MySA
+  m_IsVariant: 0
