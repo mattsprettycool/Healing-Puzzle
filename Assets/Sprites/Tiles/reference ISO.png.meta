@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: 80d8f33734d61d246b82369c79f1a9ca
+guid: b9826d08d1ee5484e9a8641c6e7e2f3b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6830711124394713273
-    second: iso tiles full_0
+      213: 8260154131712132018
+    second: reference ISO_0
   - first:
-      213: -6103248111647081488
-    second: iso tiles full_1
+      213: -9207503306277014078
+    second: reference ISO_1
   - first:
-      213: -988047318430562373
-    second: iso tiles full_2
+      213: -2481212778837959263
+    second: reference ISO_2
   - first:
-      213: 6852773859536058195
-    second: iso tiles full_3
+      213: -5625929292977888020
+    second: reference ISO_3
   - first:
-      213: 6710599042428987928
-    second: iso tiles full_4
+      213: 5037950919373118389
+    second: reference ISO_4
   - first:
-      213: 2497777616076453935
-    second: iso tiles full_5
+      213: 8201251643324200149
+    second: reference ISO_5
   - first:
-      213: 5294138011742399800
-    second: iso tiles full_6
+      213: -1636295381059105480
+    second: reference ISO_6
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: iso tiles full_0
+      name: reference ISO_0
       rect:
         serializedVersion: 2
         x: 56
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3c65a34d0ccce74aa7a33b095a9c68e
-      internalID: -6830711124394713273
+      spriteID: 3a3537d971d5af846af1aaf74bc3bef2
+      internalID: 8260154131712132018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: iso tiles full_1
+      name: reference ISO_1
       rect:
         serializedVersion: 2
         x: 246
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b03095bcae33b14396fc3f0ca124e79
-      internalID: -6103248111647081488
+      spriteID: 1b94c30cfe52f9f438b842dad58df300
+      internalID: -9207503306277014078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: iso tiles full_2
+      name: reference ISO_2
       rect:
         serializedVersion: 2
         x: 456
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e808bdc079636a64dac9abf1c51f4283
-      internalID: -988047318430562373
+      spriteID: b451862c78348f340b1959224b2e4fef
+      internalID: -2481212778837959263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: iso tiles full_3
+      name: reference ISO_3
       rect:
         serializedVersion: 2
         x: 650
@@ -184,14 +184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6683542d7e3cc3743a141d8d7ad5ad26
-      internalID: 6852773859536058195
+      spriteID: e29aa3af37fbba544906189b77b3d601
+      internalID: -5625929292977888020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: iso tiles full_4
+      name: reference ISO_4
       rect:
         serializedVersion: 2
         x: 56
@@ -205,14 +205,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d33b64b3883daf4f946e64f00443eec
-      internalID: 6710599042428987928
+      spriteID: 6c4e0904f08932c4ea4f9848a357942a
+      internalID: 5037950919373118389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: iso tiles full_5
+      name: reference ISO_5
       rect:
         serializedVersion: 2
         x: 247
@@ -226,14 +226,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4647633c004cea44a8118a3e7e44396e
-      internalID: 2497777616076453935
+      spriteID: 843b09e2989e05e43a5ba12b1899709e
+      internalID: 8201251643324200149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: iso tiles full_6
+      name: reference ISO_6
       rect:
         serializedVersion: 2
         x: 452
@@ -247,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67293aec831998a448e7675a81b17dad
-      internalID: 5294138011742399800
+      spriteID: 1343991099e97e54484c6664ba55731f
+      internalID: -1636295381059105480
       vertices: []
       indices: 
       edges: []
