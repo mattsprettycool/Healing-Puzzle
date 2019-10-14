@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: a0d3da9db97199541ae4bc4b644253d0
+guid: 80d8f33734d61d246b82369c79f1a9ca
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8300330372204178419
-    second: test iso 3_0
+      213: -6830711124394713273
+    second: iso tiles full_0
+  - first:
+      213: -6103248111647081488
+    second: iso tiles full_1
+  - first:
+      213: -988047318430562373
+    second: iso tiles full_2
+  - first:
+      213: 6852773859536058195
+    second: iso tiles full_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -89,22 +98,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: test iso 3_0
+      name: iso tiles full_0
       rect:
         serializedVersion: 2
         x: 56
-        y: 114
+        y: 44
         width: 128
         height: 128
       alignment: 9
-      pivot: {x: 0.5, y: 0.75}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 804457349614e00439935ac61178d160
-      internalID: -8300330372204178419
+      spriteID: 7e04c04b5d96f0741930347ade48318c
+      internalID: -6830711124394713273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso tiles full_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 37
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70a2829ef9b36447b32eab0e4e09ddb
+      internalID: -6103248111647081488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso tiles full_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 34
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b918d40b392c14cae76644bbc901be
+      internalID: -988047318430562373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso tiles full_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 30
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e975858507f224c4ea4b8f8c94b23d70
+      internalID: 6852773859536058195
       vertices: []
       indices: 
       edges: []
